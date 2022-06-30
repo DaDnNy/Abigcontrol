@@ -8,3 +8,11 @@ def nombre(): # mi primera funcion.
     print (c)
 
 nombre ()
+
+def resta():
+    a = 2
+    b = 1
+    c = a - b 
+    print ("el resultado de la resta es", c)
+
+resta()
